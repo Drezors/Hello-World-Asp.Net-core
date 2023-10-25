@@ -1,0 +1,73 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = MyWebApp
+build_property.RootNamespace = MyWebApp
+build_property.ProjectDir = C:\Users\thoma\Desktop\Docnet\MyWebApp\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\thoma\Desktop\Docnet\MyWebApp
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/thoma/Desktop/Docnet/MyWebApp/mslearn-create-razor-pages-aspnet-core/ContosoPizza/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = bXNsZWFybi1jcmVhdGUtcmF6b3ItcGFnZXMtYXNwbmV0LWNvcmVcQ29udG9zb1BpenphXFBhZ2VzXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thoma/Desktop/Docnet/MyWebApp/mslearn-create-razor-pages-aspnet-core/ContosoPizza/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = bXNsZWFybi1jcmVhdGUtcmF6b3ItcGFnZXMtYXNwbmV0LWNvcmVcQ29udG9zb1BpenphXFBhZ2VzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thoma/Desktop/Docnet/MyWebApp/mslearn-create-razor-pages-aspnet-core/ContosoPizza/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = bXNsZWFybi1jcmVhdGUtcmF6b3ItcGFnZXMtYXNwbmV0LWNvcmVcQ29udG9zb1BpenphXFBhZ2VzXFByaXZhY3kuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thoma/Desktop/Docnet/MyWebApp/mslearn-create-razor-pages-aspnet-core/ContosoPizza/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = bXNsZWFybi1jcmVhdGUtcmF6b3ItcGFnZXMtYXNwbmV0LWNvcmVcQ29udG9zb1BpenphXFBhZ2VzXFNoYXJlZFxfVmFsaWRhdGlvblNjcmlwdHNQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thoma/Desktop/Docnet/MyWebApp/mslearn-create-razor-pages-aspnet-core/ContosoPizza/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = bXNsZWFybi1jcmVhdGUtcmF6b3ItcGFnZXMtYXNwbmV0LWNvcmVcQ29udG9zb1BpenphXFBhZ2VzXF9WaWV3SW1wb3J0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thoma/Desktop/Docnet/MyWebApp/mslearn-create-razor-pages-aspnet-core/ContosoPizza/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = bXNsZWFybi1jcmVhdGUtcmF6b3ItcGFnZXMtYXNwbmV0LWNvcmVcQ29udG9zb1BpenphXFBhZ2VzXF9WaWV3U3RhcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thoma/Desktop/Docnet/MyWebApp/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thoma/Desktop/Docnet/MyWebApp/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thoma/Desktop/Docnet/MyWebApp/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thoma/Desktop/Docnet/MyWebApp/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thoma/Desktop/Docnet/MyWebApp/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thoma/Desktop/Docnet/MyWebApp/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thoma/Desktop/Docnet/MyWebApp/mslearn-create-razor-pages-aspnet-core/ContosoPizza/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = bXNsZWFybi1jcmVhdGUtcmF6b3ItcGFnZXMtYXNwbmV0LWNvcmVcQ29udG9zb1BpenphXFBhZ2VzXFNoYXJlZFxfTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = b-6w4utu13ny
+
+[C:/Users/thoma/Desktop/Docnet/MyWebApp/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-529uds4zl5
